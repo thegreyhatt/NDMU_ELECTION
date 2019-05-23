@@ -1,0 +1,9 @@
+id,position,order,is_ssg
+1,Governer,1,0
+2,"Vice Governer",2,0
+3,"Secretary",3,0
+4,"Board Member",4,0
+5,"President",1,1
+6,"Vice President",2,1
+7,"Executive Secretary",3,1
+8,"Senator",4,1
